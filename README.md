@@ -2,7 +2,7 @@
 Go Client for HyperLab Dialex API  
 
 ## Install  
-```go
+```bash
 go get https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/dialex
 ```  
 

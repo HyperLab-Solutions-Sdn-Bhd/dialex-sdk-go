@@ -1,0 +1,16 @@
+## Change Log
+
+### v0.5.0b (2017/11/06 06:22 +00:00)
+- [b166c7f](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/b166c7fb409d039c654a3e9bc8a1a5a0e557dcc6) Fix typo in code block in README (@riyadhalnur)
+- [e146bdb](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/e146bdb43530274b55940f201259b2daa83883ed) Add badges to README (@riyadhalnur)
+- [052b815](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/052b815ce4d23fd85d12a3aa822117f09a93f9b6) Git ignore vendor folder (@riyadhalnur)
+- [ebb88e3](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/ebb88e372b3fcb274452c64c65ae7e6e1c423a92) Create test file for dialex package (@riyadhalnur)
+- [8a5e417](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/8a5e417fbe078ddf4290471e27988c5766647723) Define main dialex module (@riyadhalnur)
+- [a8db33c](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/a8db33c79fb21a79b6722b32abef0d1f3fc0d3ea) Update README with initial instructions (@riyadhalnur)
+- [3045cdf](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/3045cdf387a54940544b0ff9fa2b319b60dc99f7) Editor config (@riyadhalnur)
+- [d5a4c04](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/d5a4c045a472d05c5c107cac7bb10f649c1e6014) Glide dep manager config file (@riyadhalnur)
+- [687b4a1](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/687b4a19455d9aac12aab07761465e175eec6a0c) Create CODE_OF_CONDUCT.md (@riyadhalnur)
+- [01d20f4](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/01d20f4a5234e325add9b0e10fe62c15845d8dfb) Create ISSUE and PR TEMPLATE (@riyadhalnur)
+- [#1](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/pull/1) Merge pull request #1 from HyperLab-Solutions-Sdn-Bhd/add-contrib-doc (@HyperLab-Solutions-Sdn-Bhd)
+- [677af4c](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/677af4ccb470affaeb0fa05733a305d6f628e333) Add contributing doc (@riyadhalnur)
+- [aa93083](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/aa93083f51dd829e0bdc08e4bf26fa2539e8ab47) Initial commit (@riyadhalnur)

@@ -12,5 +12,5 @@ go get https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/dialex
 ```go
 import "https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/dialex"
 
-dial = dialex.New("apikey")
+dial := dialex.New("apikey")
 ```

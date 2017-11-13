@@ -1,6 +1,18 @@
-hash: f17b11f600be93e8069d4f0af704918a6a85c0059f5e7634e52be8578a9b952b
-updated: 2017-11-13T22:00:15.426044169+08:00
+hash: 6209858d6ab56bd6fc8d5d3c6bc5a0ea67deb799fab7f28544ea15f841ed5fb2
+updated: 2017-11-13T22:25:44.29611014+08:00
 imports: []
 testImports:
+- name: github.com/davecgh/go-spew
+  version: 6d212800a42e8ab5c146b8ace3490ee17e5225f9
+  subpackages:
+  - spew
 - name: github.com/mattn/goveralls
   version: 9d621f6940639bf287ecbb6f585a2c26eeba3bbe
+- name: github.com/pmezard/go-difflib
+  version: d8ed2627bdf02c080bf22230dbb337003b7aba2d
+  subpackages:
+  - difflib
+- name: github.com/stretchr/testify
+  version: 69483b4bd14f5845b5a1e55bca19e954e827f1d0
+  subpackages:
+  - assert

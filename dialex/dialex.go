@@ -11,7 +11,7 @@ type Dial struct {
         apikey string
 }
 
-// Initialise the Dialex interface. Takes the API key as a parameter.
+// Initialise a new object implemented by the Dialex interface. Takes the API key as a parameter.
 func New(key string) (d *Dial) {
         return &Dial {
                 apikey: key,

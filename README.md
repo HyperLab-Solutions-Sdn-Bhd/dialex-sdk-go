@@ -13,4 +13,18 @@ go get https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/dialex
 import "https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/dialex"
 
 dial := dialex.New("apikey")
-```
+```  
+
+## Developing  
+
+Clone using git:  
+`git clone git@github.com:HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go.git`  
+
+Install glide:  
+`curl https://glide.sh/get | sh`  
+
+Install dependencies:  
+`glide install`  
+
+Run tests:  
+`go test -v`  

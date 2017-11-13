@@ -3,7 +3,7 @@ go:
   - 1.6
   - 1.7
   - 1.8
-  - tip
+  - 1.9
 
 os:
   - linux
@@ -12,6 +12,7 @@ sudo: false
 before_install:
   - mkdir -p /home/travis/gopath/{src,bin,pkg}
   - curl https://glide.sh/get | sh
+  - go get github.com/mattn/goveralls
 install:
   - glide install
 script:

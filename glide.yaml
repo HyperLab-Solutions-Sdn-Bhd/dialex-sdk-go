@@ -1,4 +1,11 @@
 package: github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go
+description: Go Client for HyperLab Dialex API
 homepage: https://dialex.xyz
 license: MIT
-import: []
+owners:
+- name: Riyadh Al Nur
+  email: riyadh.alnur@hyperlab.xyz
+  homepage: https://hyperlab.xyz/
+testImport:
+- package: github.com/mattn/goveralls
+  version: ~0.0.1

@@ -1,0 +1,6 @@
+hash: f17b11f600be93e8069d4f0af704918a6a85c0059f5e7634e52be8578a9b952b
+updated: 2017-11-13T22:00:15.426044169+08:00
+imports: []
+testImports:
+- name: github.com/mattn/goveralls
+  version: 9d621f6940639bf287ecbb6f585a2c26eeba3bbe

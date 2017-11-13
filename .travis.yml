@@ -3,7 +3,15 @@ go:
   - 1.6
   - 1.7
   - 1.8
-  - 1.9
+  - tip
 
 os:
   - linux
+
+sudo: false
+before_install:
+  - curl https://glide.sh/get | sh
+install:
+  - glide install
+script:
+  - $GOPATH/bin/goveralls -service=travis-ci

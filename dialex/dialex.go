@@ -25,7 +25,7 @@ func (d *Dial) Transform(data, lang string) (res string, err error) {
                 Timeout: time.Second * 10,
         }
 
-        req, _ := http.NewRequest("GET", "https://dialexherok.herokuapp.com/api/v1/process", nil)
+        req, _ := http.NewRequest("GET", "https://api.dialex.xyz/api/v1/process", nil)
 
         q := req.URL.Query()
         q.Add("apikey", d.apikey)

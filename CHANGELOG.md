@@ -1,5 +1,17 @@
 ## Change Log
 
+### v1.0.0 (2017/11/15 04:55 +00:00)
+- [bf2a703](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/bf2a703890934712b21a80b89c67caddd2a02afa) Update to production endpoint (@riyadhalnur)
+- [7046d9f](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/7046d9f5a5c60840118744397e54f096b70574ab) Fix travis builds (@riyadhalnur)
+- [f32bd18](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/f32bd188004b6be42fccea9dd928c2d852c1c642) Make  in travis before running tests (@riyadhalnur)
+- [ff2cc65](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/ff2cc653b4efd3db52abd4a45bd02c9d39a6e0bb) Add travis configuration (@riyadhalnur)
+- [88dabbb](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/88dabbbd36e9330cb6dbb61e0c3459cda596ac5c) Add new testing dependency (@riyadhalnur)
+- [846d898](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/846d8980d7481c8b14d207e0b7e3a27c32cbd2c2) Initial unit tests (@riyadhalnur)
+- [64eecaf](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/64eecaf4d270d24224d47149b632f90b0abbb2bb) Glide lock and definition file (@riyadhalnur)
+- [8b5223a](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/8b5223a70a9ab1c0bb8348f4507e6aabc8206de3) Add instructions on how to develop package in README (@riyadhalnur)
+- [c99a2d5](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/c99a2d579bee82d7a516d04e88fba9257974707e) Update code documentation in main package file (@riyadhalnur)
+- [76ad978](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/76ad978e8c04cd84e45bf58853ca967b38c5d202) CHANGELOG.md (@riyadhalnur)
+
 ### v0.5.0b (2017/11/06 06:22 +00:00)
 - [b166c7f](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/b166c7fb409d039c654a3e9bc8a1a5a0e557dcc6) Fix typo in code block in README (@riyadhalnur)
 - [e146bdb](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-go/commit/e146bdb43530274b55940f201259b2daa83883ed) Add badges to README (@riyadhalnur)
